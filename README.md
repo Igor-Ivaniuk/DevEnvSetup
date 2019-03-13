@@ -20,7 +20,7 @@ brew cask install oracle-jdk
 
 ### Terminal
 
-![iTerm screenshot](https://raw.githubusercontent.com/Igor-Ivaniuk/DevEnvSetup/master/Mac/iTerm.png)
+![iTerm screenshot](https://raw.githubusercontent.com/Igor-Ivaniuk/DevEnvSetup/master/Mac/screenshot.png)
 
 Install **iTerm2:** https://www.iterm2.com/index.html
 
