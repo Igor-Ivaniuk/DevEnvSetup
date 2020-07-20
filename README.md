@@ -36,6 +36,14 @@ Use **Settings for ZSH**:
 
 Import **colour scheme** from [itermProfile.json](https://raw.githubusercontent.com/Igor-Ivaniuk/DevEnvSetup/master/Mac/itermProfile.json)
 
+### JAMF
+```
+sudo jamf flushPolicyHistory
+sudo jamf recon
+sudo jamf policy
+sudo jamf manage
+```
+
 #### Articles:
 https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc
 
